@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "dependencies": {
+    "config": "file:config",
+    "tailwindcss": "3.3.3"
+  },
+  "devDependencies": {
+    "postcss": "8.4.29",
+    "postcss-cli": "10.1.0"
+  }
+}
